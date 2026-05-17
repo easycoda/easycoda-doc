@@ -21,7 +21,7 @@ After logging in, you'll be redirected to the [EasyCoda Console](https://easycod
 
 On this page, simply describe your idea or requirements in natural language and click **Send** to create a new project.
 
-![EasyCoda Quick Start](/public/en-quickstart.webp)
+![EasyCoda Quick Start](/en-quickstart.webp)
 
 **Examples:**
 

@@ -19,7 +19,7 @@ order: 10
 
 当您登录您的账号之后，会跳转至 [EasyCoda 控制台](https://easycoda.com/console/new) 页面，您也可以在浏览器里打开该页面，默认会进入新建项目页面，在该页面，您只需要用自然语言描述您的想法和需求，点击发送按钮即可创建一个新的项目。
 
-![EasyCoda Quick Start](/public/zh-quickstart.webp)
+![EasyCoda Quick Start](/zh-quickstart.webp)
 
 例如：
 

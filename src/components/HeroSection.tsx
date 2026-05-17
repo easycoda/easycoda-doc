@@ -57,8 +57,8 @@ export function HeroSection(): React.ReactElement {
           </Button>
         </div>
         <div className='text-center mt-12'>
-          <video controls width="800" poster="/public/ez-poster.png">
-            <source src="/public/ez-demo.mp4" type="video/mp4" />
+          <video controls width="800" poster="/ez-poster.png">
+            <source src="/ez-demo.mp4" type="video/mp4" />
           </video>
         </div>
       </div>
