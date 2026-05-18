@@ -3,7 +3,8 @@
 
 Welcome to [EasyCoda](https://easycoda.com)! AI coding platform that enables users to build applications through natural language.
 
-[![Watch Demo](./public/ez-poster.png)](https://docs.easycoda.com/ez-demo.mp4)
+
+[Demo Video](./public/ez-demo.mp4)
 
 ## What is EasyCoda?
 
