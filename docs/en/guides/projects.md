@@ -14,7 +14,7 @@ After logging into the EasyCoda console, click the **Projects** button in the le
 
 On the project list page, click the **More Actions** button ` ⋮ ` on the right side of a project, then select **Settings** from the dropdown menu to enter the project detail page. Here you can view detailed information about the project, such as its name, agent team, and credit usage.
 
-You can also edit the project description. The system generates a simple description by default, which you can modify at any time. This description is displayed on EasyCoda's [Explore page](https://easycoda.com/explore). When a user clicks on your project from the Explore page, they are taken to the project showcase page, where your description appears at the bottom.
+You can also edit the project description. The system generates a simple description by default, which you can modify at any time. This description is displayed on EasyCoda's [Explore page](https://easycoda.cn/explore). When a user clicks on your project from the Explore page, they are taken to the project showcase page, where your description appears at the bottom.
 
 When you create a new project, the system generates a random string as the project name, which cannot be changed. A human-readable display name is also generated, which you can rename at any time by clicking **Rename Project**.
 
@@ -44,7 +44,7 @@ You can also cancel a task from the project list page by clicking the **More Act
 
 ## Project Cloning
 
-You can browse any project on the portal's [Explore page](https://easycoda.com/explore). Click a project's preview image to open its detail page, then click the **Clone** button to start building on top of that project. Cloned projects default to Public visibility, which you can change later if needed. Cloning copies only the source code, agent team configuration, and sandbox environment — conversation history is not included.
+You can browse any project on the portal's [Explore page](https://easycoda.cn/explore). Click a project's preview image to open its detail page, then click the **Clone** button to start building on top of that project. Cloned projects default to Public visibility, which you can change later if needed. Cloning copies only the source code, agent team configuration, and sandbox environment — conversation history is not included.
 
 You can also clone one of your own existing projects from its detail page by clicking the **Clone** button.
 

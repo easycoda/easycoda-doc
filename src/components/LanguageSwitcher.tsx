@@ -58,7 +58,7 @@ export function LanguageSwitcher(): React.ReactElement {
   const currentLang = (params.lang as Locale | undefined) ?? locale;
 
   const currentLabel = useMemo(
-    () => LOCALE_LABELS[currentLang] ?? LOCALE_LABELS.en,
+    () => LOCALE_LABELS[currentLang] ?? LOCALE_LABELS.zh,
     [currentLang],
   );
 

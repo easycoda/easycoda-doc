@@ -46,7 +46,7 @@ const zh: UITranslations = {
   'home.hero.secondary': '了解更多',
   'home.title': 'EasyCoda 文档',
   'home.subtitle': '全球领先的 AI 智能体自主开发团队',
-  'home.description': '了解并掌握 EasyCoda 和核心功能，实现快速应用开发和交付',
+  'home.description': '了解并掌握 EasyCoda 和核心功能和 AI 智能体自主编程团队，实现快速应用开发和交付',
 
   // Features section
   'home.features.title': '核心特性',
@@ -80,7 +80,7 @@ const zh: UITranslations = {
   'features.codeCopied': '已复制！',
 
   // Footer
-  'footer.copyright': '© 2024 EasyCoda. 保留所有权利。',
+  'footer.copyright': '© 2024 北京跃云科技有限公司. 保留所有权利。',
   'footer.links': '链接',
   'footer.community': '社区',
   'footer.built': '由 EasyCoda React 智能体团队构建',

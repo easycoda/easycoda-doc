@@ -1,11 +1,11 @@
 import { Link } from 'react-router-dom';
-import { Github, Twitter, ExternalLink, type LucideIcon } from 'lucide-react';
+import { Github, Home, ExternalLink, type LucideIcon } from 'lucide-react';
 import { siteConfig } from '@/lib/siteConfig';
 import { useTranslation } from '@/i18n';
 
 const iconMap: Record<string, LucideIcon> = {
   Github,
-  Twitter,
+  Home,
 };
 
 export function Footer(): React.ReactElement {

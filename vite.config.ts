@@ -12,7 +12,7 @@ import { vitePluginEasyDoc } from "./src/plugins/vite-plugin-easydoc"
 const easyDocOptions: EasyDocPluginOptions = {
   docsRoot: "docs/",
   locales: ["en", "zh"],
-  defaultLocale: "en",
+  defaultLocale: "zh",
 }
 
 // https://vite.dev/config/

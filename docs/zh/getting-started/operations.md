@@ -11,7 +11,7 @@ order: 20
 通过 [快速入门](/zh/getting-started/getting-started) 您已掌握如何在 EasyCoda 上快速启动一个项目，本指南着重介绍当项目启动之后，您在项目聊天页面的常用操作。当您项目创建成功之后，会进入项目聊天页面，如下图所示：
 
 
-![EasyCoda Operations](/public/zh-operation.webp)
+![EasyCoda Operations](/zh-operation.webp)
 
 ## 智能体会话
 

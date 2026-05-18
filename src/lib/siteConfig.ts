@@ -1,12 +1,12 @@
 import type { SiteConfig } from '../types/config';
 
 export const siteConfig: SiteConfig = {
-  title: 'EasyCoda Documentation',
-  description: 'EasyCoda - AI Agent powered application building platform.',
-  baseUrl: 'https://docs.easycoda.com',
+  title: 'EasyCoda 文档',
+  description: 'EasyCoda - 全球领先的 AI 智能体自主编程平台。',
+  baseUrl: 'https://docs.easycoda.cn',
   ogImage: '/logo.png',
   locales: ['en', 'zh'],
-  defaultLocale: 'en',
+  defaultLocale: 'zh',
   nav: [
     {
       label: 'nav.home',
@@ -52,14 +52,14 @@ export const siteConfig: SiteConfig = {
     },
     {
       label: 'nav.easycoda',
-      path: 'https://easycoda.com',
+      path: 'https://easycoda.cn',
       external: true,
     },
   ],
   footer: {
-    copyright: `© ${new Date().getFullYear()} EasyCoda. All rights reserved.`,
+    copyright: `© ${new Date().getFullYear()} 北京跃云科技有限公司. 版权所有。`,
     links: [
-      { text: 'EasyCoda', link: 'https://easycoda.com' },
+      { text: 'EasyCoda', link: 'https://easycoda.cn' },
       { text: 'GitHub', link: 'https://github.com/easycoda/easycoda-doc' },
     ],
   },
@@ -70,9 +70,9 @@ export const siteConfig: SiteConfig = {
       label: 'GitHub',
     },
     {
-      icon: 'Twitter',
-      link: 'https://twitter.com/@easy_coda',
-      label: 'Twitter',
+      icon: 'Home',
+      link: 'https://easycoda.com',
+      label: 'EasyCoda',
     },
   ],
 };

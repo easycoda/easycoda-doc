@@ -29,7 +29,7 @@ export function DocPage(): React.ReactElement {
   // Fall back to 'index' when no splat is present (language-level index page
   // reached via /:lang with no trailing path).
   const resolvedPath = splat || 'index';
-  const resolvedLang = lang ?? 'en';
+  const resolvedLang = lang ?? 'zh';
 
   const { data, isLoading, error } = useDocData(resolvedLang, resolvedPath);
   // ------------------------------------------------------------------

@@ -10,7 +10,7 @@ This guide covers the common operations in EasyCoda to help you build applicatio
 
 After completing the [Quick Start](/en/getting-started/getting-started), you should know how to launch a project on EasyCoda. This guide focuses on the operations available on the project chat page after your project is up and running. Once a project is successfully created, you will be taken to the project chat page, as shown below:
 
-![EasyCoda Operations](/public/en-operation.webp)
+![EasyCoda Operations](/en-operation.webp)
 
 ## Agent Conversations
 

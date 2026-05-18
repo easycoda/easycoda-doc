@@ -27,7 +27,7 @@ For an overview of your total account credit usage, click the **account avatar**
 
 ## Purchasing Credits
 
-You can purchase credits in two ways on the [Pricing page](https://easycoda.com/pricing).
+You can purchase credits in two ways on the [Pricing page](https://easycoda.cn/pricing).
 
 1. **Upgrade your account.** When you subscribe to a Standard or Premium plan, the plan includes a set amount of credits along with other benefits. Included credits are added to your account after each successful monthly billing cycle. Any unused plan credits will expire at the end of the month and will not carry over.
 
